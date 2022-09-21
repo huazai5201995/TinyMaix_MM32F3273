@@ -13,7 +13,7 @@
 ## Board
 
 Pitaya_lite   
-![输入图片描述](README_md_files/dc31deb0-39d0-11ed-968d-45f0ec0addc6.jpeg?v=1&type=image)
+![image](https://user-images.githubusercontent.com/32017646/191576566-013f33bd-0b3b-4c90-a48c-90d357214535.png)
 
 ## Development Environment
 
